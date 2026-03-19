@@ -7,7 +7,7 @@ Rule-based DSA Chatbot
 📚 Provides instant explanations for core DSA topics:
 
 Arrays
-
+ 
 Linked Lists
  
 Stacks (LIFO principle)
